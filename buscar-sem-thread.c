@@ -4,7 +4,6 @@
 #include <pthread.h>
 
 static int QNT_THREADS = 4;
-static int QNT_NUM = 1024;
 
 int containsElement(int *vetor, int nums, int x);
 
